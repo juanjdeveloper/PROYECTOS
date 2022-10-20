@@ -9,8 +9,10 @@ header{
     ;
 }
 
+.nav {text-align: right;}
 
-.nav li{
+
+.nav a{
     display: inline-block;
     list-style: none;
     margin-left: 15px;
@@ -18,6 +20,9 @@ header{
     margin-top: 20px;
     font-weight: bold;
     color: greenyellow;
+    text-decoration: none;
+    
+    
 
 }
 main{
